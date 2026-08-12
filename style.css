@@ -3,5 +3,9 @@ h1 {
 }
 
 .paragrafos {
-    color: chocolate;
+    color: green;
+}
+
+button {
+    color: red;
 }

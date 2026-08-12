@@ -1,0 +1,3 @@
+function CliqueAqui() {
+    alert("Fofoqueiro");
+}
