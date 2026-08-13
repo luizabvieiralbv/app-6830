@@ -8,4 +8,10 @@ h1 {
 
 button {
     color: red;
+    display: flex;
+}
+
+#fujao {
+    position: absolute;
+    margin: 10px;
 }
